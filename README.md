@@ -14,11 +14,4 @@ Task Sections-
 Task-1 : To-Do List WebApp
 
 
-Task-2 : Create React App
-
-
-Task-3 : Enrollment Form
-
-
-Task-4 : Calculator
 
